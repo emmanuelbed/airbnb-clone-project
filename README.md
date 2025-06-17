@@ -5,7 +5,9 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 # Technology Stack
 Django: A web framework for building RESTful APIs
+
 PostgreSQL:  A free and open-source relational database management system emphasizing extensibility and SQL compliance.
+
 GraphQL: is a data query and manipulation language that allows specifying what data is to be retrieved ("declarative data fetching") or modified.
 
 # Database Design
