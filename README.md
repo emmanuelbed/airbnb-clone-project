@@ -12,6 +12,11 @@ Gain proficiency in designing and managing CI/CD pipelines for efficient deploym
 Strengthen their ability to document and plan complex software projects effectively.
 Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 
+# Technology Stack
+Django: A web framework for building RESTful APIs
+PostgreSQL:  A free and open-source relational database management system emphasizing extensibility and SQL compliance.
+GraphQL: is a data query and manipulation language that allows specifying what data is to be retrieved ("declarative data fetching") or modified.
+
 # Key Highlights
 Hands-on GitHub Repository Management:
 Learn to initialize and structure a project repository, adhering to industry best practices.
