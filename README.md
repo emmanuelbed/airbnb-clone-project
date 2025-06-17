@@ -25,6 +25,13 @@ Authentication
 Authorization
 Rate Limiting
 
+# CI/CD Pipeline
+A CI/CD pipeline is an automated process that streamlines the software development lifecycle, from code changes to deployment. It combines Continuous Integration (CI) and Continuous Delivery/Deployment (CD), automating tasks like building, testing, and deploying code changes
+
+Tools:
+Git Actions
+Docker
+
 # Key Highlights
 Hands-on GitHub Repository Management:
 Learn to initialize and structure a project repository, adhering to industry best practices.
