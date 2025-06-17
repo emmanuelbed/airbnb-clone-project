@@ -20,6 +20,11 @@ Property Management
 User Management
 Handling Bookings
 
+# API Security
+Authentication
+Authorization
+Rate Limiting
+
 # Key Highlights
 Hands-on GitHub Repository Management:
 Learn to initialize and structure a project repository, adhering to industry best practices.
