@@ -17,6 +17,13 @@ Django: A web framework for building RESTful APIs
 PostgreSQL:  A free and open-source relational database management system emphasizing extensibility and SQL compliance.
 GraphQL: is a data query and manipulation language that allows specifying what data is to be retrieved ("declarative data fetching") or modified.
 
+# Database Design
+Users: A user can have multiple Properties
+Properties: Each property can have several unique features
+Bookings: A booking belongs to a property
+Reviews: Each user can give a review with rattings
+Payments: Multiple payment gateways integrated for a varity of user choices.
+
 # Key Highlights
 Hands-on GitHub Repository Management:
 Learn to initialize and structure a project repository, adhering to industry best practices.
