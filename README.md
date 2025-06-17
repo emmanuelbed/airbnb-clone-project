@@ -9,26 +9,36 @@ PostgreSQL:  A free and open-source relational database management system emphas
 GraphQL: is a data query and manipulation language that allows specifying what data is to be retrieved ("declarative data fetching") or modified.
 
 # Database Design
-Users: A user can have multiple Properties
-Properties: Each property can have several unique features
-Bookings: A booking belongs to a property
-Reviews: Each user can give a review with rattings
-Payments: Multiple payment gateways integrated for a varity of user choices.
+- Users: A user can have multiple Properties
+
+- Properties: Each property can have several unique features
+
+- Bookings: A booking belongs to a property
+
+- Reviews: Each user can give a review with rattings
+
+- Payments: Multiple payment gateways integrated for a varity of user choices.
 
 # Feature Breakdown
-Property Management
-User Management
-Handling Bookings
+- Property Management
+
+- User Management
+
+- Handling Bookings
+
 
 # API Security
-Authentication
-Authorization
-Rate Limiting
+- Authentication
+
+- Authorization
+
+- Rate Limiting
+
 
 # CI/CD Pipeline
 A CI/CD pipeline is an automated process that streamlines the software development lifecycle, from code changes to deployment. It combines Continuous Integration (CI) and Continuous Delivery/Deployment (CD), automating tasks like building, testing, and deploying code changes
 
-Tools:
-Git Actions
-Docker
+## Tools:
+- Git Actions
+- Docker
 
